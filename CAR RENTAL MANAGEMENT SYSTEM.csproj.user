@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\Controls\CarCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\frmAdminChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmAdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmAIInsights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmAISuggestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmBillingRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmCarComparison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmCreateManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmCustomerChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmCustomerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmGPSSimulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmMakeBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManageBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManageCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManageCoupons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManagerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmMyBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmNewMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmPaymentGateway.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\frmReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
