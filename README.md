@@ -7,7 +7,11 @@
 
 **DriveFlow** is a premium, enterprise-grade Car Rental Management System (CRMS) designed to automate fleet operations, enhance security through real-time GPS telemetry, and provide data-driven business insights using localized AI models.
 
----
+
+[![Documentation](https://img.shields.io/badge/Documentation-Live-blue?style=for-the-badge&logo=gitbook)](https://driveflow-documentation.lovable.app/)
+
+> 🌐 **Live Documentation:** View the official project guides and documentation at [driveflow-documentation.lovable.app](https://driveflow-documentation.lovable.app/)
+--
 
 ## 🚀 Core Features
 
